@@ -85,6 +85,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h23/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 https://slive.mana2.my/AniPlus/index.mpd
 
+#EXTINF:-1 group-title="🇯🇵 BANZAI 🇯🇵" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/mytv/content/common/channel/logos/zmrxkh.png",AniplusZZZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
+
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/animax.png" group-title="🇯🇵 BANZAI 🇯🇵",Animax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
