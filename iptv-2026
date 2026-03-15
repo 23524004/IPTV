@@ -60,9 +60,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/nusantaratv.png" group-title="TV UjungBerung",Nusantara
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/jaktv.png" group-title="TV UjungBerung",JAK TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -85,6 +82,12 @@ https://slive.mana2.my/AniPlus/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
+#EXTINF:-1 group-title="🇯🇵 BANZAI 🇯🇵" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_aniplus.png",AniplusXXX
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2f4c7790660c4a0ea82f38ca1998da13":"9186a4ec6c2c2af731de820bf517e4e0","4271dec5b6794650872dc915fe10fdeb":"0e64ddadd1cbd079f98c597fc01c06bf","61666330303030303030303030303030":"e6f0c3fa2a6adb104a0163a5ef0bdd79","636974726164616e6764757430303030":"65232737d3a5e4e14dbfd3d96805d30b","64756e6961616e616b30303030303030":"40d96782fdd3ff05e7c0bf9aa7af8ce5","64756e69616c61696e30303030303030":"d742218958e10ca989be6a63f2db9b6d","68697473303030303030303030303030":"605f9a17b3fe63477eeee636af6f3890","686974736d6f76696530303030303030":"31e5ce898eb4639119f21f55671d407d","686f7265653030303030303030303030":"fe3d39b39bd26f0ee274f60c397bf61a","686f72697a6f6e73706f727430303030":"1ea22d4728acb704f4a1dd78ca5c59a5","69646b755f3130303030303030303030":"e4a2359b05563399f1d9adfce641724a","6e69636b6a7230303030303030303030":"5130a6e0a492e1cc152783c490679bc5","736f6e65303030303030303030303030":"824784864e5ad3d72820d58823ed4dda","746c6330303030303030303030303030":"80719b8d1cdc6ed01aa555663db7fc96","79698301a95740009531b1d53e3ad5fe":"7240a4a29a54e6089b108fbcb95cb265","834ec3cbface4fe992e995a32d35f587":"e0a97198d9f2dfcb0a0483cd4b04414b","f2c313fce55344e5a52389741d1f53f8":"bae1e47db562b66895beb8fccdf2ad8a"}
+https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
+
 #EXTINF:-1 group-title="🇯🇵 BANZAI 🇯🇵" tvg-logo="https://id-test-11.slatic.net/shop/6562507fa2d6cb3f11e8390974460773.png",ANIMAX1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -92,14 +95,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 https://fta1-cdn-flr.visionplus.id/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
-#EXTINF:-1 tvg-logo="https://festhomedocs.com/festivals/242/logo-uncut-242.jpg" group-title="🇯🇵 BANZAI 🇯🇵",ANIMAX2
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000122/1024.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/2300628/ANIMAX_Logo.jpg" group-title="🇯🇵 BANZAI 🇯🇵",ANIMAX3
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/2300628/ANIMAX_Logo.jpg" group-title="🇯🇵 BANZAI 🇯🇵",ANIMAX2
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 
@@ -152,9 +152,6 @@ https://legacy-global-cdn.visionplus.id/live/eds/MNCMuslim/sa_dash/MNCMuslim.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/rodjatv.png" group-title="TV UjungBerung",RODJA TV
 https://rodjatv.com/rodjatv/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/surautv.png" group-title="TV UjungBerung",SURAU TV
-https://surautv.siar.us/live/surautv.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/densfoodch.png" group-title="TV UjungBerung",DENS Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
@@ -168,22 +165,16 @@ https://gooo.blog/opix/genx.m3u8?id=spacetoon&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIU
 
 
 
-
-#EXTINF:-1 tvg-id="1" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png" group-title="FILM",HBO HD
-#https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/hbo/manifest.mpd
+#EXTINF:-1 group-title="FILM" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg",HBOOOO
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 #EXTINF:-1 tvg-id="HBO Hits" group-title="FILM" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79nwv.png",HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
-#EXTINF:-1 tvg-id="HBO Family" group-title="FILM" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://iili.io/Ju79otR.png",HBO Family
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
